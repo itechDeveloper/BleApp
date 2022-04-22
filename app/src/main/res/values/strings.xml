@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BLE App</string>
+    <string name="scanning">SCANNING</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="ble_servers">BLE SERVERS</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="messages">MESSAGES</string>
+    <string name="server">SERVER</string>
+    <string name="client">CLIENT</string>
+    <string name="restart">RESTART</string>
+    <string name="connect">CONNECT</string>
+    <string name="logs">LOGS</string>
+    <string name="clear">CLEAR</string>
+    <string name="friend">FRIEND</string>
+</resources>

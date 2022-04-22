@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/seven/AndroidStudioProjects/BLEApp/app/src/main/res/drawable/avd_done.xml" value="0.2515" />
+        <entry key="..\:/Users/seven/AndroidStudioProjects/BLEApp/app/src/main/res/drawable/progress_bar.xml" value="0.138" />
+        <entry key="..\:/Users/seven/AndroidStudioProjects/BLEApp/app/src/main/res/layout/activity_ble.xml" value="0.8" />
+        <entry key="..\:/Users/seven/AndroidStudioProjects/BLEApp/app/src/main/res/layout/activity_client.xml" value="0.4586319218241042" />
+        <entry key="..\:/Users/seven/AndroidStudioProjects/BLEApp/app/src/main/res/layout/activity_main.xml" value="0.8" />
+        <entry key="..\:/Users/seven/AndroidStudioProjects/BLEApp/app/src/main/res/layout/activity_server.xml" value="0.52954808806489" />
+        <entry key="..\:/Users/seven/AndroidStudioProjects/BLEApp/app/src/main/res/layout/view_gatt_server.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/seven/AndroidStudioProjects/BLEApp/app/src/main/res/layout/view_log.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
