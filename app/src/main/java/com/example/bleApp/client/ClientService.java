@@ -1,6 +1,11 @@
 package com.example.bleApp.client;
 
-import static com.example.bleApp.Constants.*;
+import static com.example.bleApp.Constants.CHARACTERISTIC_UUID;
+import static com.example.bleApp.Constants.MATCHED;
+import static com.example.bleApp.Constants.SCAN_PERIOD;
+import static com.example.bleApp.Constants.SERVICE_UUID;
+import static com.example.bleApp.Constants.XEE_KIDS_FRIEND;
+import static com.example.bleApp.Constants.XEE_KIDS_MATCH_CONTROL;
 
 import android.app.job.JobParameters;
 import android.app.job.JobService;
